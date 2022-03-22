@@ -1,0 +1,11 @@
+body{
+    /* height: 700px;
+    width: 800px; */
+    margin: 0;
+}
+
+canvas {
+    margin-top: 150px;
+    margin-left: 300px;
+    background-image: url("HR2/Forritun2/Skila_Kristinn_Kjartan/Viðmið 3/img/background2.png");
+}
